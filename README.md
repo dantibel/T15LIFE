@@ -5,6 +5,10 @@ This project is implemetation of cellular automaton - Conway's Game of Life. The
 the cell's neighbor count. The younger cell the lighter its color.
 Project uses GLUT for window handling, and display the game field.
 
+Some screenshots:
+![](screenshot01.png)
+![](screenshot02.png)
+
 User can dynamicly change status of cells using mouse and keyboard. 
 Keymap:
   - LMB - make cell alive
